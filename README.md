@@ -1,4 +1,4 @@
-### Ciao!👋 I'm Marco, an Italian Software Engineer. By nickname "Synco".
+### Ciao!👋 I'm Marco, an Italian Software Engineer.
 - 🔭 I’m currently working on a Personal-Finance-System in C++/QT
 - 🌱 I’m currently learning Full Stack Development on Cloud
 - 👯 I’m looking to collaborate on Web or Finance related Projects

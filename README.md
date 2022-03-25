@@ -5,4 +5,5 @@
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: [LinkedIn - @nardisync](https://www.linkedin.com/in/nardisync/)
 - 😄 Pronouns: He/His
+- 🌟 Nickname: Sync
 - ⚡ Fun fact: I love to travel with my motorcycle 🏍

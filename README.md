@@ -10,6 +10,13 @@ I love to work on personal projects and, in this page, you will find some reposi
 - 😄 Pronouns: He/His 
 - 🌟 Nickname: Sync
 
-- 📫 How to reach me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/syncoGitHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nardisync/?locale=en_US/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@nardisync)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://syncogithub.github.io/)  [<img src="https://www.clipartmax.com/png/small/415-4156006_lifetime-usage-coursera-icon.png" alt="coursera" height='40'>](https://www.coursera.org/user/88412174b050f96c81c843fad6dbd3b1) [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/pluralsight-512.png" alt="pluralsight" height='40>'](https://app.pluralsight.com/profile/marco-nardi)
+- 📚 My current certifications: <br>
+
+     [<img src="https://cdn.iconscout.com/icon/free/png-256/coursera-3628117-3030937.png" alt="coursera" height='40'>](https://www.coursera.org/user/88412174b050f96c81c843fad6dbd3b1) [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/pluralsight-512.png" alt="pluralsight" height='40'>](https://app.pluralsight.com/profile/marco-nardi)
+
+- 📫 How to reach me: <br>
+
+     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/syncoGitHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nardisync/?locale=en_US/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@nardisync)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://syncogithub.github.io/)  
+
+
   

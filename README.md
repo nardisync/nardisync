@@ -1,4 +1,4 @@
-### Ciao 👋, I'm Marco, an Italian Software Engineer.
+### Ciao 👋 I'm Marco, an Italian Software Engineer.
 A man with a growing mindset who is committed to lifelong learning.
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=syncoGitHub&show_icons=true&theme=radical" />

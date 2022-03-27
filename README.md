@@ -1,8 +1,8 @@
 ![A man with a growing mindset that is committed to a life of learning.](https://cdn.pixabay.com/photo/2021/09/12/07/58/banner-6617553__340.jpg)
 ### Ciao 👋, I'm Marco, an Italian Software Engineer.
-#### A man with a growing mindset that is committed to a life of learning.
+#### A man with a growing mindset who is committed to lifelong learning..
 
-I love to work on my projects and, in this page, you will find some repositorys that I have created for various tests or researches, and repository that I have created for me and I'm currently working on.
+I love to working on my projects and, in this page, you will find some repositorys that I have created for various tests or researches, and repositorys that I'm currently working on for personal use.
 
 ## Some things about me :
 
@@ -44,22 +44,23 @@ I love to work on my projects and, in this page, you will find some repositorys 
      <img src="imgs/visualparadigma.png" title="Visual Paradigma" alt="visualparadigma" height='40'>
 
 </p>
-
-<div style="width: 50%; float:left">
-   <h2>📚 My certifications : </h2>
-     <p align="left">
-          <a href="https://www.coursera.org/user/88412174b050f96c81c843fad6dbd3b1"> <img src="imgs/coursera.png" title="Coursera" alt="coursera" height='40'></a> 
-          <a href=https://app.pluralsight.com/profile/marco-nardi><img src="imgs/pluralsight.png" title="Pluralsight" alt="pluralsight" height='40'></a>
-     </p>
-</div>
-<div style="width: 50%; float:right">
-     <h2>📫 Connect with me : </h2>
-     <p align="left">
-          <a href="https://github.com/syncoGitHub"><img src='imgs/github.png' title="GitHub" alt='github' height='40'></a>
-          <a href="https://www.linkedin.com/in/nardisync/?locale=en_US"> <img src='imgs/linkedin.png' title="LinkedIn" alt='linkedin' height='40'></a>
-          <a href="https://syncogithub.github.io/"><img src='imgs/webpage.png' title="My Personal Website" alt='website' height='40'></a>
-          <a href="https://twitter.com/@nardisync"> <img src='imgs/twitter.png' title="Twitter" alt='twitter' height='40'></a>
-     </p>
+<div>
+     <div style="width: 50%; float:left">
+          <h2>📚 My certifications : </h2>
+          <p align="left">
+               <a href="https://www.coursera.org/user/88412174b050f96c81c843fad6dbd3b1"> <img src="imgs/coursera.png" title="Coursera" alt="coursera" height='40'></a> 
+               <a href=https://app.pluralsight.com/profile/marco-nardi><img src="imgs/pluralsight.png" title="Pluralsight" alt="pluralsight" height='40'></a>
+          </p>
+     </div>
+     <div style="width: 50%; float:right">
+          <h2>📫 Connect with me : </h2>
+          <p align="left">
+               <a href="https://github.com/syncoGitHub"><img src='imgs/github.png' title="GitHub" alt='github' height='40'></a>
+               <a href="https://www.linkedin.com/in/nardisync/?locale=en_US"> <img src='imgs/linkedin.png' title="LinkedIn" alt='linkedin' height='40'></a>
+               <a href="https://syncogithub.github.io/"><img src='imgs/webpage.png' title="My Personal Website" alt='website' height='40'></a>
+               <a href="https://twitter.com/@nardisync"> <img src='imgs/twitter.png' title="Twitter" alt='twitter' height='40'></a>
+          </p>
+     </div>
 </div>
 
 

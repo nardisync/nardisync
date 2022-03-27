@@ -1,6 +1,9 @@
-![A man with a growing mindset that is committed to a life of learning.](https://cdn.pixabay.com/photo/2021/09/12/07/58/banner-6617553__340.jpg)
 ### Ciao 👋, I'm Marco, an Italian Software Engineer.
-#### A man with a growing mindset who is committed to lifelong learning..
+#### A man with a growing mindset who is committed to lifelong learning.
+
+<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=syncoGitHub&show_icons=true&theme=radical">
+<img  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncoGitHub&layout=compact" /> 
+
 
 I love to working on my projects and, in this page, you will find some repositorys that I have created for various tests or researches, and repositorys that I'm currently working on for personal use.
 

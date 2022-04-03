@@ -5,7 +5,8 @@ A man with a growing mindset who is committed to lifelong learning.
 <img align="left" width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncoGitHub&layout=compact" /> 
 <br clear="left"><br>
 
-I love to working on my projects and, in this page, you will find some repositorys that I have created for various tests or researches, and repositorys that I'm currently working on for personal use. 
+I love to working on my projects and, in this page, you will find some repositorys that I have created for various tests or researches, and repositorys that I'm currently working on for personal use.
+
 
 ## Some things about me :
 

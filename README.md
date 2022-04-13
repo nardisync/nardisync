@@ -60,9 +60,9 @@ I love to working on my projects and, in this page, you will find some repositor
      <h2>📫 Connect with me : </h2>
      <p align="left">
           <a href="https://github.com/nardisync"><img src='imgs/github.png' title="GitHub" alt='github' height='40'></a>
-          <a href="https://www.linkedin.com/in/nardisync/?locale=en_US"> <img src='imgs/linkedin.png' title="LinkedIn" alt='linkedin' height='40'></a>
-          <a href="https://nardisync.github.io/"><img src='imgs/webpage.png' title="My Personal Website" alt='website' height='40'></a>
-          <a href="https://twitter.com/@nardisync"> <img src='imgs/twitter.png' title="Twitter" alt='twitter' height='40'></a>
+          <a href="https://www.linkedin.com/in/nardisync/?locale=en_US" target="_blank" rel="noopener noreferrer"> <img src='imgs/linkedin.png' title="LinkedIn" alt='linkedin' height='40'></a>
+          <a href="https://nardisync.github.io/" target="_blank" rel="noopener noreferrer"><img src='imgs/webpage.png' title="My Personal Website" alt='website' height='40'></a>
+          <a href="https://twitter.com/@nardisync" target="_blank" rel="noopener noreferrer"> <img src='imgs/twitter.png' title="Twitter" alt='twitter' height='40'></a>
      </p>
 </div>
 

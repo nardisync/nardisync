@@ -10,7 +10,6 @@ I love to working on my projects and, in this page, you will find some repositor
 
 ## Some things about me :
 
-- 🔭 I’m currently working on a **[Personal-Finance-System](https://github.com/syncoGitHub/PersonalFinanceSystem)** in C++/QT 
 - 🌱 I’m currently learning *Full Stack Development* on Cloud
 - 👯 I’m looking to collaborate on Web or Finance related Projects 
 - 😄 Pronouns: He/His 
